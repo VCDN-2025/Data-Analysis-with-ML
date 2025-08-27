@@ -60,6 +60,3 @@ Guidelines:
 - Cambria, E., Schuller, B., Xia, Y., & Havasi, C. (2013). *New Avenues in Opinion Mining and Sentiment Analysis.* IEEE Intelligent Systems, 28(2), 15–21.  
 - Miner, G., Delen, D., Elder, J., Fast, A., Hill, T., & Nisbet, R. (2012). *Practical Text Mining and Statistical Analysis for Non-structured Text Data Applications.* Academic Press.  
 
----
-
-### 5. Key Takeaways
